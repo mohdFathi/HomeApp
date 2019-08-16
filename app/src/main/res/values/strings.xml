@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeApp</string>
+    <string name="notification_channel_name">notifications</string>
+    <string name="notification_channel_description">notifications</string>
+    <string name="notification_channel_id">notification_id</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="go_to_home_screen">Click to go to home screen</string>
+</resources>

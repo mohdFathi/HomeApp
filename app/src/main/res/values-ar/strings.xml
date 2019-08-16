@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">الشاشة الرئيسية</string>
+    <string name="notification_channel_name">notifications</string>
+    <string name="notification_channel_description">notifications</string>
+    <string name="notification_channel_id">notification_id</string>
+    <string name="show_notification">اظهار الاشعار</string>
+    <string name="home_screen">الشاشة الرئيسية</string>
+    <string name="go_to_home_screen">اضغط للذهاب الى الشاشة الرئيسية</string>
+</resources>
